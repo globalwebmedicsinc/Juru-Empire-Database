@@ -1,0 +1,12 @@
+{
+  "name": "Juru Empire Database",
+  "slug": "juru-empire-database",
+  "version": "1.1",
+  "download_url": "https://github.com/globalwebmedicsinc/Juru-Empire-Database/juru-empire-database.zip",
+  "tested": "6.6",
+  "requires": "5.0",
+  "requires_php": "7.4",
+  "sections": {
+    "changelog": "Added fauna support, improved template handling."
+  }
+}
