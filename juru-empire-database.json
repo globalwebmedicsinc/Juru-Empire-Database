@@ -1,7 +1,7 @@
 {
   "name": "Juru Empire Database",
   "slug": "juru-empire-database",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "download_url": "https://github.com/globalwebmedicsinc/Juru-Empire-Database/raw/refs/heads/main/juru-empire-database.zip",
   "tested": "6.6",
   "requires": "5.0",
